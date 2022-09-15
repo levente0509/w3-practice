@@ -1,4 +1,4 @@
-.root {
+/* .root {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -30,4 +30,16 @@
 }
 .bottom-circle {
   bottom: 0;
+} */
+
+/* CATS START HERE */
+
+.cats img {
+  width: 200px;
+  margin-top: 10px;
+}
+.cats {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
 }
